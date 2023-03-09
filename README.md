@@ -47,6 +47,6 @@ Users should be able to:
 ## Author
 
 - Website - [Shashikant](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shashikantdev3)
-- Twitter - [@yourusername](https://www.twitter.com/shashikantdev3)
+- Frontend Mentor - [@shashikantdev3](https://www.frontendmentor.io/profile/shashikantdev3)
+- Twitter - [@shashikantdev3](https://www.twitter.com/shashikantdev3)
 
